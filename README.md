@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome&desc=Gyumin's%20Github%20profile&color=auto&animation=scaleIn)
 
 <div align="center">
-  ☁️ Blog List ☁️
+  ☁️ Blog List ☁️<br>
    <a href="www.instagram/kgm0510_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
    <a href="www.kimryan.kr" target="_blank"><img src="https://img.shields.io/badge/MyBlog-B5B5B6?style=flat-square&logo=Blogger&logoColor=white"/></a>
    
