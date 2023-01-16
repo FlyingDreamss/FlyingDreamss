@@ -2,7 +2,7 @@
 
 <div align="center">
   ☁️ Blog List ☁️<br>
-   <a href="https://www.instagram/kgm0510_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+   <a href="https://www.instagram.com/kgm0510_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
    <a href="http://www.kimryan.kr" target="_blank"><img src="https://img.shields.io/badge/MyBlog-B5B5B6?style=flat-square&logo=Blogger&logoColor=white"/></a>
    
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFlyingDreamss&count_bg=%23000000&title_bg=%23E985ED&icon=&icon_color=%23F7A6A6&title=hits&edge_flat=false)](https://github.com/FlyingDreamss)
